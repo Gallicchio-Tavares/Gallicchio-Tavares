@@ -4,12 +4,6 @@
 <br>
 💻👨‍💻 - Member of Ramo-IEEE
 <br>
-
-<div> 
-  <img width="40" src="https://cdn.discordapp.com/attachments/950802388606935130/1149077814612603021/genero.png" target="_blank">
-  <img width="40" src="https://cdn.discordapp.com/attachments/950802388606935130/1149077814889414666/assexuado.png" target="_blank">
-</div>
-
   ##
   
 <br>
